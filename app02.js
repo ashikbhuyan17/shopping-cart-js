@@ -147,6 +147,7 @@ function calculateTotal() {
 //     handleCaseBlack(false);
 
 // });
+//hahahah 
 
 
 
